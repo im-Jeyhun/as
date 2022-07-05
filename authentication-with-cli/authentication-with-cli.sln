@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "authentication-with-cli", "authentication-with-cli\authentication-with-cli.csproj", "{A7968DB4-C8D8-46AE-8CF6-5BF801A6A4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7968DB4-C8D8-46AE-8CF6-5BF801A6A4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7968DB4-C8D8-46AE-8CF6-5BF801A6A4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7968DB4-C8D8-46AE-8CF6-5BF801A6A4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7968DB4-C8D8-46AE-8CF6-5BF801A6A4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DDFB59-ABDE-4CF2-833A-9017C2EE0758}
+	EndGlobalSection
+EndGlobal
